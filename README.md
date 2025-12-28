@@ -9,7 +9,7 @@ The project focuses on direct data visualization in Power BI without prior SQL c
 - Dashboard design
 - Business-style analytical storytelling
 
-  📂 Dataset
+ 📂 Dataset
 
 Source: Kaggle – 120 Years of Olympic History: Athletes and Results
 
